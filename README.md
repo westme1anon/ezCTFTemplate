@@ -51,4 +51,4 @@ cookiecutter <your_path>/ezCTFTemplate
 
 
 
-运行每个文件夹中的`SetName.py`，输入{CTF题目名}，会使当前文件夹以及所有下级文件即文件夹带上{CTF题目名}前缀，以及wp.md文件的标题也会换成这个。
+运行每个文件夹中的`SetName.py`，输入{CTF题目名}，会使当前文件夹以及所有下级文件即文件夹带上{CTF题目名_}前缀，以及wp.md文件的标题也会换成这个。
