@@ -1,0 +1,7 @@
+{
+    "CTF_name": "XXCTF",
+    "_copy_without_render": [
+        "*.md",
+        "*.txt"
+    ]
+}
